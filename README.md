@@ -5,11 +5,11 @@ In this implementation, I use NUMPY ot building a Simple Neural Network (NN)
 <img src="./img/Descriptions_SS.png" width="70%">
 
 (1) Notations:
-* $X = [x1, x2]$: neural network inputs
-* $y$: neural network outputs
-* $\hat{y}$: ground truth
-* $L(\theta)$: loss
-* $W_1, W_2, ...$: weight matrix of each network layers
+* <img src="http://latex.codecogs.com/gif.latex?X = [x1, x2]">: neural network inputs
+* <img src="http://latex.codecogs.com/gif.latex?y">: neural network outputs
+* <img src="http://latex.codecogs.com/gif.latex?\hat{y}">: ground truth
+* <img src="http://latex.codecogs.com/gif.latex?L(\theta)">: loss
+* <img src="http://latex.codecogs.com/gif.latex?W_1, W_2, ...">: weight matrix of each network layers
 
 (2) Activations Functions:
 * linear, sigmoid, tanh, relu, softmax, leaky_relu, selu
