@@ -2,7 +2,7 @@
 In this implementation, I use NUMPY ot building a Simple Neural Network (NN)
 
 #### Descriptions
-<img src="./img/Descriptions_SS.png" width="70%">
+<img src="./img/Descriptions_SS.png" width="70%", style="text-align: center">
 
 (1) Notations:
 * <img src="http://latex.codecogs.com/gif.latex?X = [x1, x2]">: neural network inputs
